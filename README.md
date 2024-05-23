@@ -1,16 +1,10 @@
-# flutter_application_2
+## Flutter | Calculadora
 
-A new Flutter project.
+Este projeto foi desenvolvido como parte da conclusão da disciplina de Flutter na Residência TIC|Serratec.
 
-## Getting Started
+✨ O projeto contém...
+- **Tela Principal:** com aplicação de um Menu Drawer.
+- **Tela de Portfolio:** contendo uma breve apresentação pessoal.
+- **Calculadora:** com inputs para o usuário inserir seus valores e ver o resultado impresso na tela + opção de zerar a calculadora após o uso.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Apresentação2](https://github.com/elisa-cardoso/flutter_aula02/assets/157071746/40310a39-8a63-4e70-b7ee-417e96bf0b03)
